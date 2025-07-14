@@ -7,6 +7,9 @@ name = "pypi"
 opencv-python = "*"
 python-dotenv = "*"
 matplotlib = "*"
+requests = "*"
+imgviz = "*"
+labelme = "*"
 
 [dev-packages]
 
